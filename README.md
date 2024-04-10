@@ -60,36 +60,36 @@ The main features of LPC2148 include the following.
 ![226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/5bfaedd9-995c-4e1e-ad70-8918bc380f8a)
 
 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
-![226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1](https://github.c![226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/9cf6a926-2419-44ac-98e6-9e5132e61a28)
-om/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/cbfa31a3-ea88-403f-8188-b3c4f8f742f3)
+![226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/347941a6-2d8b-487a-af42-ea22449aeb5a)
 
+
+![226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/b023db03-4ea8-4929-81eb-f5fe48b50baa)
 
 
 7.click on cntrl+S , automaticall C program will be generated 
-![226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFA![226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/0791299d-5389-425f-9643-16d65577cf37)
-CING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/54b46d16-3127-45da-afbd-a105cc8895cc)
+![226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/3d1968b6-7768-42d7-9391-22cf683eebfd)
 
-8. edit the program and as per required 
-![226189461-a573e62f-a109-4631-a250-a20925758fe0](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/cf8195f7-96b9-4ad0-9c56-2ee1abfb5367)
+![226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/58cb6f84-176a-49c3-aeaa-6bfe6c1ac021)
+
+8. edit the program and as per required
+![226189461-a573e62f-a109-4631-a250-a20925758fe0](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/4248efac-4350-42a9-bb8f-d1453861f40a)
 
 
 9. use project and build all 
-![226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/3f590b41-6e34-4d6b-95bf-5040bcbabe88)
+![226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/cd7b4ece-3e26-4dd6-b8b8-6f95c3c3d179)
+
 
 10. once the project is bulild 
-![226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/6a0d6bfd-8770-4e34-86a8-2c30fee89682)
-
+![226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/755b862b-6a99-4867-94a2-7c121d5f4cc4)
 
 11. click on debug option 
-![226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/e8c7ba94-2def-465f-b14e-dd8367d09763)
-
+![226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/67e2cfbf-74f3-45a7-95ee-aeee179b1eee)
 
 12. connect the stm nucleo board and click on run 
 
+![226189649-b5dff389-91df-4eca-b84a-1127c6562637](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/8c4b0067-9367-4b07-9295-b2d4fa42592d)
 
 
-
-![226189649-b5dff389-91df-4eca-b84a-1127c6562637](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/8135a65a-5cad-4fa2-bedf-57057a75adfb)
 
 
 
