@@ -40,52 +40,52 @@ The main features of LPC2148 include the following.
  
 
 ## Procedure:
- 1. click on STM 32 CUBE IDE, the following screen will appear 
+  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![226189166-ac10578c-c059-40e7-8b80-9f84f64bf088](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/9e2da654-a495-42d7-a8c1-ebf8c692d4d3)
 
- 2. click on FILE, click on new stm 32 project 
+  2. click on FILE, click on new stm 32 project 
 ![226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/f2f244ef-797b-4ee1-bf59-d3ff580baaf3)
 ![226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/47867535-dcca-4124-b97a-44b65d01e797)
 
-3. select the target to be programmed  as shown below and click on next 
+  3. select the target to be programmed  as shown below and click on next 
 ![226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/f099901b-8559-446b-84cd-9a647167377f)
 
 
 
-4.select the program name 
+ 4.select the program name 
 ![226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/cad29090-50be-471c-a33d-2366680d905c)
 
 
-5. corresponding ioc file will be generated automatically 
+ 5. corresponding ioc file will be generated automatically 
 ![226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/5bfaedd9-995c-4e1e-ad70-8918bc380f8a)
 
-6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+ 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
 ![226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/347941a6-2d8b-487a-af42-ea22449aeb5a)
 
 
 ![226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/b023db03-4ea8-4929-81eb-f5fe48b50baa)
 
 
-7.click on cntrl+S , automaticall C program will be generated 
+ 7.click on cntrl+S , automaticall C program will be generated 
 ![226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/3d1968b6-7768-42d7-9391-22cf683eebfd)
 
 ![226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/58cb6f84-176a-49c3-aeaa-6bfe6c1ac021)
 
-8. edit the program and as per required
+ 8.edit the program and as per required
 ![226189461-a573e62f-a109-4631-a250-a20925758fe0](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/4248efac-4350-42a9-bb8f-d1453861f40a)
 
 
-9. use project and build all 
+ 9.use project and build all 
 ![226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/cd7b4ece-3e26-4dd6-b8b8-6f95c3c3d179)
 
 
-10. once the project is bulild 
+ 9.once the project is bulild 
 ![226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/755b862b-6a99-4867-94a2-7c121d5f4cc4)
 
-11. click on debug option 
+ 10.click on debug option 
 ![226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/67e2cfbf-74f3-45a7-95ee-aeee179b1eee)
 
-12. connect the stm nucleo board and click on run 
+  11.connect the stm nucleo board and click on run 
 
 ![226189649-b5dff389-91df-4eca-b84a-1127c6562637](https://github.com/keerthigasudhagar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/163229129/8c4b0067-9367-4b07-9295-b2d4fa42592d)
 
